@@ -1,0 +1,54 @@
+# Ignore node_modules and other Angular-specific files
+/node_modules/
+/dist/
+/out-tsc/
+/.angular/
+/.vscode/
+/*.log
+*.tsbuildinfo
+
+# Ignore Angular environment files (uncomment if you use custom environment settings)
+# src/environments/environment*.ts
+
+# Ignore temporary build and debug artifacts
+*.tmp
+*.cache
+
+# Ignore npm-debug log files
+npm-debug.log*
+
+# Ignore .NET Core build outputs
+/bin/
+/obj/
+/publish/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+
+# Ignore Visual Studio-specific files
+.vs/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore local tool configurations
+*.env
+*.env.local
+
+
+# Ignore compiled files and other artifacts
+*.pdb
+*.log
+
+# Ignore temporary files
+*.bak
+*.swp
+
+# Ignore by OS
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

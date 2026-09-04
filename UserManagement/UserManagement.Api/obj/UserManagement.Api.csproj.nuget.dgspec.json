@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj": {}
+    "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj": {}
   },
   "projects": {
-    "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj": {
+    "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
+        "projectUniqueName": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
         "projectName": "UserManagement.Api",
-        "projectPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
+        "projectPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
         "packagesPath": "C:\\Users\\TRUPTI\\.nuget\\packages\\",
-        "outputPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\obj\\",
+        "outputPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj": {
-                "projectPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj"
+              "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj": {
+                "projectPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj"
               }
             }
           }
@@ -58,6 +58,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.13, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[10.2.3, )"
             }
           },
           "imports": [
@@ -83,14 +87,14 @@
         }
       }
     },
-    "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj": {
+    "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj",
+        "projectUniqueName": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj",
         "projectName": "UserManagement.Domain",
-        "projectPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj",
+        "projectPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\TRUPTI\\.nuget\\packages\\",
-        "outputPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\obj\\",
+        "outputPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

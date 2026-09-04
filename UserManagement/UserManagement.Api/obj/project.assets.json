@@ -34,6 +34,22 @@
           }
         }
       },
+      "Swashbuckle.AspNetCore.SwaggerUI/10.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "UserManagement.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -78,6 +94,27 @@
         "microsoft.openapi.nuspec"
       ]
     },
+    "Swashbuckle.AspNetCore.SwaggerUI/10.2.3": {
+      "sha512": "nthWONRs/FJ4yyG206g1cC52WEG8EqrjuMWjGdR+5XG7lbjFto6NqcI9EMICgVFom/UivIjUVwI76ZHbHwTPfQ==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swaggerui/10.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "package-readme.md",
+        "swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggerui.nuspec"
+      ]
+    },
     "UserManagement.Domain/1.0.0": {
       "type": "project",
       "path": "../UserManagment.Domain/UserManagement.Domain.csproj",
@@ -87,6 +124,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.13",
+      "Swashbuckle.AspNetCore.SwaggerUI >= 10.2.3",
       "UserManagement.Domain >= 1.0.0"
     ]
   },
@@ -97,11 +135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
+      "projectUniqueName": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
       "projectName": "UserManagement.Api",
-      "projectPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
+      "projectPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
       "packagesPath": "C:\\Users\\TRUPTI\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\obj\\",
+      "outputPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -123,8 +161,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj": {
-              "projectPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj"
+            "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj": {
+              "projectPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj"
             }
           }
         }
@@ -148,6 +186,10 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[9.0.13, )"
+          },
+          "Swashbuckle.AspNetCore.SwaggerUI": {
+            "target": "Package",
+            "version": "[10.2.3, )"
           }
         },
         "imports": [

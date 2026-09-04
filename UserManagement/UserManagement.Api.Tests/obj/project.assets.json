@@ -348,6 +348,22 @@
           }
         }
       },
+      "Swashbuckle.AspNetCore.SwaggerUI/10.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "System.Reflection.Metadata/1.6.0": {
         "type": "package",
         "compile": {
@@ -462,6 +478,7 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "9.0.13",
+          "Swashbuckle.AspNetCore.SwaggerUI": "10.2.3",
           "UserManagement.Domain": "1.0.0"
         },
         "compile": {
@@ -896,6 +913,27 @@
         "packageIcon.png"
       ]
     },
+    "Swashbuckle.AspNetCore.SwaggerUI/10.2.3": {
+      "sha512": "nthWONRs/FJ4yyG206g1cC52WEG8EqrjuMWjGdR+5XG7lbjFto6NqcI9EMICgVFom/UivIjUVwI76ZHbHwTPfQ==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swaggerui/10.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net9.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "package-readme.md",
+        "swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggerui.nuspec"
+      ]
+    },
     "System.Reflection.Metadata/1.6.0": {
       "sha512": "COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
       "type": "package",
@@ -1090,11 +1128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj",
+      "projectUniqueName": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj",
       "projectName": "UserManagement.Api.Tests",
-      "projectPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj",
+      "projectPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj",
       "packagesPath": "C:\\Users\\TRUPTI\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\obj\\",
+      "outputPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1116,11 +1154,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj": {
-              "projectPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj"
+            "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj": {
+              "projectPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj"
             },
-            "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj": {
-              "projectPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj"
+            "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj": {
+              "projectPath": "E:\\coding\\applications\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\UserManagement.Domain.csproj"
             }
           }
         }
