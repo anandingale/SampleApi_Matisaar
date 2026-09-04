@@ -1,0 +1,11 @@
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\bin\Debug\net9.0\UserManagement.Domain.deps.json
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\bin\Debug\net9.0\UserManagement.Domain.dll
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\bin\Debug\net9.0\UserManagement.Domain.pdb
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\obj\Debug\net9.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\obj\Debug\net9.0\UserManagement.Domain.AssemblyInfoInputs.cache
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\obj\Debug\net9.0\UserManagement.Domain.AssemblyInfo.cs
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\obj\Debug\net9.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\obj\Debug\net9.0\UserManagement.Domain.dll
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\obj\Debug\net9.0\refint\UserManagement.Domain.dll
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\obj\Debug\net9.0\UserManagement.Domain.pdb
+E:\repos\repos\SampleApi_Matisaar\UserManagement\UserManagment.Domain\obj\Debug\net9.0\ref\UserManagement.Domain.dll

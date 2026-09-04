@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dhuzu8nNzUM=",
+  "success": true,
+  "projectFilePath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRUPTI\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.13\\microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
+    "C:\\Users\\TRUPTI\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA3765A-1E1A-4554-97B3-93B4246AC5F1}|UserManagement.Api\\UserManagement.Api.csproj|e:\\repos\\repos\\sampleapi_matisaar\\usermanagement\\usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAA3765A-1E1A-4554-97B3-93B4246AC5F1}|UserManagement.Api\\UserManagement.Api.csproj|solutionrelative:usermanagement.api\\usermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA3765A-1E1A-4554-97B3-93B4246AC5F1}|UserManagement.Api\\UserManagement.Api.csproj|e:\\repos\\repos\\sampleapi_matisaar\\usermanagement\\usermanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA3765A-1E1A-4554-97B3-93B4246AC5F1}|UserManagement.Api\\UserManagement.Api.csproj|solutionrelative:usermanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA3765A-1E1A-4554-97B3-93B4246AC5F1}|UserManagement.Api\\UserManagement.Api.csproj|e:\\repos\\repos\\sampleapi_matisaar\\usermanagement\\usermanagement.api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA3765A-1E1A-4554-97B3-93B4246AC5F1}|UserManagement.Api\\UserManagement.Api.csproj|solutionrelative:usermanagement.api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD167B59-54B4-43B9-9BA2-0001862C8A69}|UserManagment.Domain\\UserManagment.Domain.csproj|e:\\repos\\repos\\sampleapi_matisaar\\usermanagement\\usermanagment.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD167B59-54B4-43B9-9BA2-0001862C8A69}|UserManagment.Domain\\UserManagment.Domain.csproj|solutionrelative:usermanagment.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230B3955-70DA-47AD-B8A7-A135C6CBB464}|UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj|e:\\repos\\repos\\sampleapi_matisaar\\usermanagement\\usermanagement.api.tests\\usermanagement.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{230B3955-70DA-47AD-B8A7-A135C6CBB464}|UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj|solutionrelative:usermanagement.api.tests\\usermanagement.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230B3955-70DA-47AD-B8A7-A135C6CBB464}|UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj|e:\\repos\\repos\\sampleapi_matisaar\\usermanagement\\usermanagement.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230B3955-70DA-47AD-B8A7-A135C6CBB464}|UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj|solutionrelative:usermanagement.api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserManagement.Api\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "UserManagement.Api\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T04:52:26.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserManagement.Api\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserManagement.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T04:34:43.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManagement.Api.Tests",
+              "DocumentMoniker": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj",
+              "RelativeDocumentMoniker": "UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj",
+              "ToolTip": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj",
+              "RelativeToolTip": "UserManagement.Api.Tests\\UserManagement.Api.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-04T04:26:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagement.Api",
+              "DocumentMoniker": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
+              "RelativeDocumentMoniker": "UserManagement.Api\\UserManagement.Api.csproj",
+              "ToolTip": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api\\UserManagement.Api.csproj",
+              "RelativeToolTip": "UserManagement.Api\\UserManagement.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-04T04:26:02.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\User.cs",
+              "RelativeDocumentMoniker": "UserManagment.Domain\\User.cs",
+              "ToolTip": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagment.Domain\\User.cs",
+              "RelativeToolTip": "UserManagment.Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T04:23:27.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UserManagement.Api.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\repos\\repos\\SampleApi_Matisaar\\UserManagement\\UserManagement.Api.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "UserManagement.Api.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T13:36:51.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
